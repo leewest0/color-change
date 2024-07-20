@@ -1,3 +1,3 @@
-# color-change
+# KEDARI FIGMA APP
 
-A sample project to change the background of the page
+KEDARI FIGMA PAGE
